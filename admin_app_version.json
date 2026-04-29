@@ -1,9 +1,13 @@
-{
+{"latest_version_code": 22,
+                        "latest_version_name": "1.0.2",
+                        "update_url": "https://firebasestorage.googleapis.com/v0/b/hoven-flutter-app.appspot.com/o/apps%2Fapp-release.apk?alt=media&token=a193b1f6-7baf-4639-8222-6ce7b9a4d43e",
+
+  
   "hoven_admin_panel" : {"latest_version_code": 22,
                         "latest_version_name": "1.0.22",
                         "update_url": "https://firebasestorage.googleapis.com/v0/b/hoven-flutter-app.appspot.com/o/apps%2Fapp-release.apk?alt=media&token=a193b1f6-7baf-4639-8222-6ce7b9a4d43e"},
 
   "order_manager" : {"latest_version_code": 1,
                       "latest_version_name": "1.0.1",
-                      "update_url": "https://firebasestorage.googleapis.com/v0/b/hoven-flutter-app.appspot.com/o/apps%2Fapp-release.apk?alt=media&token=a193b1f6-7baf-4639-8222-6ce7b9a4d43e"}
+                      "update_url": "https://firebasestorage.googleapis.com/v0/b/hoven-flutter-app.appspot.com/o/apps%2Fapp-release.apk?alt=media&token=a193b1f6-7baf-4639-8222-6ce7b9a4d43e"},
 }
